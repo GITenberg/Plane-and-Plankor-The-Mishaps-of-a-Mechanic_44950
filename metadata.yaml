@@ -28,6 +28,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/260
     wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44950#Plane-and-Plankor-The-Mishaps-of-a-Mechanic
 gutenberg_issued: '2014-02-17'
 gutenberg_type: Text
 identifiers:
