@@ -1,0 +1,48 @@
+_repo: Plane-and-Plankor-The-Mishaps-of-a-Mechanic_44950
+_version: 0.1.0
+contributor:
+  engineer:
+    agent_name: Kilburn, Samuel Smith
+    alias: Kilburn, S. S. (Samuel Smith)
+    gutenberg_agent_id: '25332'
+    url: http://www.gutenberg.org/2009/agents/25332
+  illustrator:
+    agent_name: Herrick, Henry Walker
+    alias: Herrick, H. W. (Henry Walker)
+    birthdate: 1824
+    deathdate: 1906
+    gutenberg_agent_id: '42034'
+    url: http://www.gutenberg.org/2009/agents/42034
+covers:
+- cover_type: archival
+  image_path: 44950-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Optic, Oliver
+    aliases:
+    - Adams, William T. (William Taylor)
+    - Adams, William Taylor
+    birthdate: 1822
+    deathdate: 1897
+    gutenberg_agent_id: '260'
+    url: http://www.gutenberg.org/2009/agents/260
+    wikipedia: http://www.gutenberg.org/browse/authors/a#a5655
+description: ''
+gutenberg_issued: '2014-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44950'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Prayer -- Juvenile fiction'
+- !lcsh 'Carpentry -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Temperance -- Juvenile fiction'
+title: Plane and Plank; or, The Mishaps of a Mechanic
+url: http://www.gutenberg.org/ebooks/44950
